@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "dromozoa-parser"
-version = "1.7-1"
+version = "1.8-1"
 -- LuaDist source
 source = {
-  tag = "1.7-1",
+  tag = "1.8-1",
   url = "git://github.com/LuaDist-testing/dromozoa-parser.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/dromozoa/dromozoa-parser/archive/v1.7.tar.gz";
---   file = "dromozoa-parser-1.7.tar.gz";
+--   url = "https://github.com/dromozoa/dromozoa-parser/archive/v1.8.tar.gz";
+--   file = "dromozoa-parser-1.8.tar.gz";
 -- }
 description = {
   summary = "Parser generator toolkit";
